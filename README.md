@@ -1,2 +1,3 @@
 # adhan
 adhan for Flipper
+an experimental app as I learn how to make apps for the Flipper Zero...
